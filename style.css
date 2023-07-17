@@ -1,0 +1,30 @@
+#menu{
+   
+    display: flex;
+    font-weight: bold;
+    
+}
+:link{
+    color:rgb(44, 196, 44)
+}
+.nenlinku{
+    font-weight: normal;
+}
+.nenlinku1{
+    font-weight: normal;
+}
+.nenlinku2{
+    font-weight: normal;
+}
+body{
+    background-color: rgb(109, 201, 109);
+}
+#titulli1{
+    background-color: green;
+}
+h2{
+    color:rgb(109, 201, 109); ;
+}
+.a{
+    background-color: rgb(58, 160, 58);
+}
